@@ -1,0 +1,121 @@
+record_id,route_id,route_name,departure_time,hour,passengers,delay_min,data_label
+S001,TL-101,Colaba - Dadar,06:00,6,22,6,SAMPLE - simulated
+S002,TL-101,Colaba - Dadar,07:15,7,41,3,SAMPLE - simulated
+S003,TL-101,Colaba - Dadar,08:45,8,63,8,SAMPLE - simulated
+S004,TL-101,Colaba - Dadar,09:15,9,78,8,SAMPLE - simulated
+S005,TL-101,Colaba - Dadar,10:45,10,49,9,SAMPLE - simulated
+S006,TL-101,Colaba - Dadar,11:15,11,36,7,SAMPLE - simulated
+S007,TL-101,Colaba - Dadar,12:15,12,30,5,SAMPLE - simulated
+S008,TL-101,Colaba - Dadar,13:00,13,29,7,SAMPLE - simulated
+S009,TL-101,Colaba - Dadar,14:30,14,35,6,SAMPLE - simulated
+S010,TL-101,Colaba - Dadar,15:45,15,34,7,SAMPLE - simulated
+S011,TL-101,Colaba - Dadar,16:15,16,52,4,SAMPLE - simulated
+S012,TL-101,Colaba - Dadar,17:30,17,78,8,SAMPLE - simulated
+S013,TL-101,Colaba - Dadar,18:45,18,76,10,SAMPLE - simulated
+S014,TL-101,Colaba - Dadar,19:30,19,66,9,SAMPLE - simulated
+S015,TL-101,Colaba - Dadar,20:15,20,40,5,SAMPLE - simulated
+S016,TL-205,Bandra - Andheri,06:45,6,29,9,SAMPLE - simulated
+S017,TL-205,Bandra - Andheri,07:00,7,51,8,SAMPLE - simulated
+S018,TL-205,Bandra - Andheri,08:45,8,80,13,SAMPLE - simulated
+S019,TL-205,Bandra - Andheri,09:15,9,96,16,SAMPLE - simulated
+S020,TL-205,Bandra - Andheri,10:15,10,59,13,SAMPLE - simulated
+S021,TL-205,Bandra - Andheri,11:45,11,45,11,SAMPLE - simulated
+S022,TL-205,Bandra - Andheri,12:15,12,42,10,SAMPLE - simulated
+S023,TL-205,Bandra - Andheri,13:00,13,37,7,SAMPLE - simulated
+S024,TL-205,Bandra - Andheri,14:15,14,41,9,SAMPLE - simulated
+S025,TL-205,Bandra - Andheri,15:45,15,44,11,SAMPLE - simulated
+S026,TL-205,Bandra - Andheri,16:00,16,62,8,SAMPLE - simulated
+S027,TL-205,Bandra - Andheri,17:30,17,79,14,SAMPLE - simulated
+S028,TL-205,Bandra - Andheri,18:45,18,86,13,SAMPLE - simulated
+S029,TL-205,Bandra - Andheri,19:00,19,87,13,SAMPLE - simulated
+S030,TL-205,Bandra - Andheri,20:15,20,46,7,SAMPLE - simulated
+S031,TL-310,Kurla - Powai,06:30,6,22,11,SAMPLE - simulated
+S032,TL-310,Kurla - Powai,07:30,7,38,10,SAMPLE - simulated
+S033,TL-310,Kurla - Powai,08:00,8,65,14,SAMPLE - simulated
+S034,TL-310,Kurla - Powai,09:15,9,72,16,SAMPLE - simulated
+S035,TL-310,Kurla - Powai,10:45,10,51,16,SAMPLE - simulated
+S036,TL-310,Kurla - Powai,11:45,11,34,14,SAMPLE - simulated
+S037,TL-310,Kurla - Powai,12:45,12,26,10,SAMPLE - simulated
+S038,TL-310,Kurla - Powai,13:30,13,24,11,SAMPLE - simulated
+S039,TL-310,Kurla - Powai,14:00,14,27,10,SAMPLE - simulated
+S040,TL-310,Kurla - Powai,15:00,15,36,11,SAMPLE - simulated
+S041,TL-310,Kurla - Powai,16:15,16,43,13,SAMPLE - simulated
+S042,TL-310,Kurla - Powai,17:15,17,67,17,SAMPLE - simulated
+S043,TL-310,Kurla - Powai,18:45,18,76,14,SAMPLE - simulated
+S044,TL-310,Kurla - Powai,19:00,19,63,18,SAMPLE - simulated
+S045,TL-310,Kurla - Powai,20:45,20,35,9,SAMPLE - simulated
+S046,TL-415,Borivali - Malad,06:00,6,26,4,SAMPLE - simulated
+S047,TL-415,Borivali - Malad,07:15,7,46,6,SAMPLE - simulated
+S048,TL-415,Borivali - Malad,08:45,8,72,10,SAMPLE - simulated
+S049,TL-415,Borivali - Malad,09:00,9,84,6,SAMPLE - simulated
+S050,TL-415,Borivali - Malad,10:00,10,62,8,SAMPLE - simulated
+S051,TL-415,Borivali - Malad,11:45,11,38,6,SAMPLE - simulated
+S052,TL-415,Borivali - Malad,12:00,12,32,5,SAMPLE - simulated
+S053,TL-415,Borivali - Malad,13:30,13,35,7,SAMPLE - simulated
+S054,TL-415,Borivali - Malad,14:45,14,37,6,SAMPLE - simulated
+S055,TL-415,Borivali - Malad,15:15,15,40,2,SAMPLE - simulated
+S056,TL-415,Borivali - Malad,16:30,16,50,6,SAMPLE - simulated
+S057,TL-415,Borivali - Malad,17:00,17,86,7,SAMPLE - simulated
+S058,TL-415,Borivali - Malad,18:00,18,89,10,SAMPLE - simulated
+S059,TL-415,Borivali - Malad,19:00,19,81,7,SAMPLE - simulated
+S060,TL-415,Borivali - Malad,20:00,20,43,6,SAMPLE - simulated
+S061,TL-520,Thane - Mulund,06:15,6,20,14,SAMPLE - simulated
+S062,TL-520,Thane - Mulund,07:30,7,35,16,SAMPLE - simulated
+S063,TL-520,Thane - Mulund,08:30,8,60,15,SAMPLE - simulated
+S064,TL-520,Thane - Mulund,09:45,9,63,15,SAMPLE - simulated
+S065,TL-520,Thane - Mulund,10:15,10,41,18,SAMPLE - simulated
+S066,TL-520,Thane - Mulund,11:00,11,30,15,SAMPLE - simulated
+S067,TL-520,Thane - Mulund,12:15,12,25,13,SAMPLE - simulated
+S068,TL-520,Thane - Mulund,13:30,13,26,12,SAMPLE - simulated
+S069,TL-520,Thane - Mulund,14:30,14,24,12,SAMPLE - simulated
+S070,TL-520,Thane - Mulund,15:30,15,29,14,SAMPLE - simulated
+S071,TL-520,Thane - Mulund,16:15,16,41,16,SAMPLE - simulated
+S072,TL-520,Thane - Mulund,17:30,17,62,15,SAMPLE - simulated
+S073,TL-520,Thane - Mulund,18:45,18,68,15,SAMPLE - simulated
+S074,TL-520,Thane - Mulund,19:30,19,57,18,SAMPLE - simulated
+S075,TL-520,Thane - Mulund,20:45,20,32,14,SAMPLE - simulated
+S076,TL-615,Churchgate - Worli,06:00,6,22,2,SAMPLE - simulated
+S077,TL-615,Churchgate - Worli,07:30,7,45,5,SAMPLE - simulated
+S078,TL-615,Churchgate - Worli,08:15,8,63,7,SAMPLE - simulated
+S079,TL-615,Churchgate - Worli,09:30,9,73,6,SAMPLE - simulated
+S080,TL-615,Churchgate - Worli,10:30,10,54,9,SAMPLE - simulated
+S081,TL-615,Churchgate - Worli,11:15,11,37,5,SAMPLE - simulated
+S082,TL-615,Churchgate - Worli,12:00,12,29,6,SAMPLE - simulated
+S083,TL-615,Churchgate - Worli,13:15,13,28,4,SAMPLE - simulated
+S084,TL-615,Churchgate - Worli,14:00,14,35,3,SAMPLE - simulated
+S085,TL-615,Churchgate - Worli,15:45,15,36,3,SAMPLE - simulated
+S086,TL-615,Churchgate - Worli,16:00,16,51,6,SAMPLE - simulated
+S087,TL-615,Churchgate - Worli,17:30,17,77,9,SAMPLE - simulated
+S088,TL-615,Churchgate - Worli,18:45,18,82,7,SAMPLE - simulated
+S089,TL-615,Churchgate - Worli,19:00,19,73,8,SAMPLE - simulated
+S090,TL-615,Churchgate - Worli,20:30,20,36,6,SAMPLE - simulated
+S091,TL-720,Sion - Chembur,06:30,6,20,8,SAMPLE - simulated
+S092,TL-720,Sion - Chembur,07:15,7,36,8,SAMPLE - simulated
+S093,TL-720,Sion - Chembur,08:15,8,57,11,SAMPLE - simulated
+S094,TL-720,Sion - Chembur,09:30,9,68,11,SAMPLE - simulated
+S095,TL-720,Sion - Chembur,10:30,10,45,14,SAMPLE - simulated
+S096,TL-720,Sion - Chembur,11:30,11,30,9,SAMPLE - simulated
+S097,TL-720,Sion - Chembur,12:45,12,28,8,SAMPLE - simulated
+S098,TL-720,Sion - Chembur,13:45,13,25,7,SAMPLE - simulated
+S099,TL-720,Sion - Chembur,14:30,14,26,10,SAMPLE - simulated
+S100,TL-720,Sion - Chembur,15:45,15,31,9,SAMPLE - simulated
+S101,TL-720,Sion - Chembur,16:15,16,43,9,SAMPLE - simulated
+S102,TL-720,Sion - Chembur,17:00,17,65,12,SAMPLE - simulated
+S103,TL-720,Sion - Chembur,18:15,18,72,10,SAMPLE - simulated
+S104,TL-720,Sion - Chembur,19:00,19,54,12,SAMPLE - simulated
+S105,TL-720,Sion - Chembur,20:45,20,33,9,SAMPLE - simulated
+S106,TL-830,Goregaon - Vile Parle,06:45,6,23,8,SAMPLE - simulated
+S107,TL-830,Goregaon - Vile Parle,07:00,7,45,9,SAMPLE - simulated
+S108,TL-830,Goregaon - Vile Parle,08:45,8,60,12,SAMPLE - simulated
+S109,TL-830,Goregaon - Vile Parle,09:45,9,68,16,SAMPLE - simulated
+S110,TL-830,Goregaon - Vile Parle,10:45,10,50,17,SAMPLE - simulated
+S111,TL-830,Goregaon - Vile Parle,11:15,11,34,13,SAMPLE - simulated
+S112,TL-830,Goregaon - Vile Parle,12:30,12,31,12,SAMPLE - simulated
+S113,TL-830,Goregaon - Vile Parle,13:15,13,27,9,SAMPLE - simulated
+S114,TL-830,Goregaon - Vile Parle,14:15,14,29,9,SAMPLE - simulated
+S115,TL-830,Goregaon - Vile Parle,15:15,15,33,11,SAMPLE - simulated
+S116,TL-830,Goregaon - Vile Parle,16:15,16,43,12,SAMPLE - simulated
+S117,TL-830,Goregaon - Vile Parle,17:45,17,67,15,SAMPLE - simulated
+S118,TL-830,Goregaon - Vile Parle,18:45,18,82,14,SAMPLE - simulated
+S119,TL-830,Goregaon - Vile Parle,19:45,19,58,15,SAMPLE - simulated
+S120,TL-830,Goregaon - Vile Parle,20:45,20,40,11,SAMPLE - simulated
